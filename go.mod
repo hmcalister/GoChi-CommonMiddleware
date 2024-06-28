@@ -1,4 +1,4 @@
-module github.com/hmcalister/GoChiSharedMiddleware
+module github.com/hmcalister/GoChi-CommonMiddleware
 
 go 1.22.0
 
